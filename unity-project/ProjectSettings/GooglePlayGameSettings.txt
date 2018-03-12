@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=686810452144
+and.BundleId=com.roundhousestudio.cannonboy
+proj.classDir=Assets
+proj.ConstantsClassName=Constants
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e686810452144%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3ecom.roundhousestudio.cannonboy%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_getting_the_hang_of_it%22%3eCgkIsKHfyP4TEAIQAA%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_beginner_self_launcher%22%3eCgkIsKHfyP4TEAIQAQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_sunset_admirer%22%3eCgkIsKHfyP4TEAIQAg%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_night_flyer%22%3eCgkIsKHfyP4TEAIQAw%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_morning_flyer%22%3eCgkIsKHfyP4TEAIQBA%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_another_beautiful_day%22%3eCgkIsKHfyP4TEAIQBQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_cannon_specialist%22%3eCgkIsKHfyP4TEAIQBg%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_flying_mentor%22%3eCgkIsKHfyP4TEAIQBw%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_cannon_master%22%3eCgkIsKHfyP4TEAIQCA%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_sky_conqueror%22%3eCgkIsKHfyP4TEAIQCQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_cannon_hero%22%3eCgkIsKHfyP4TEAIQCg%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_cannon_hero_ii%22%3eCgkIsKHfyP4TEAIQCw%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_leaderboard%22%3eCgkIsKHfyP4TEAIQDQ%3c%2fstring%3e%0a%3c%2fresources%3e%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
