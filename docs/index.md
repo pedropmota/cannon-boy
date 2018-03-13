@@ -1,3 +1,7 @@
-# Game Build!
+# This is Cannon Boy!
 
-{% include index.html %}
+## How to play:
+Left click or spacebar to FIRE!
+
+
+{% include cannonboy-window.html %}
