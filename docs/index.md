@@ -1,1 +1,3 @@
-{% include footer.html %}
+# Game Build!
+
+{% include index.html %}
