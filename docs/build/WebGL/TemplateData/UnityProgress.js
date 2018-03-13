@@ -4,6 +4,8 @@ function UnityProgress (dom) {
 	this.dom = dom;
 
 	var parent = dom.parentNode;
+	
+	var folderPath = "build/WebGL/";
 
 	var background = document.createElement("div");
 	background.style.background = "#4D4D4D";
@@ -12,19 +14,19 @@ function UnityProgress (dom) {
 	this.background = background;
 
 	var logoImage = document.createElement("img");
-	logoImage.src = "TemplateData/progresslogo.png"; 
+	logoImage.src = folderPath + "TemplateData/progresslogo.png"; 
 	logoImage.style.position = "absolute";
 	parent.appendChild(logoImage);
 	this.logoImage = logoImage;
 
 	var progressFrame = document.createElement("img");
-	progressFrame.src = "TemplateData/loadingbar.png"; 
+	progressFrame.src = folderPath + "TemplateData/loadingbar.png"; 
 	progressFrame.style.position = "absolute";
 	parent.appendChild(progressFrame);
 	this.progressFrame = progressFrame;
 
 	var progressBar = document.createElement("img");
-	progressBar.src = "TemplateData/fullbar.png"; 
+	progressBar.src = folderPath + "TemplateData/fullbar.png"; 
 	progressBar.style.position = "absolute";
 	parent.appendChild(progressBar);
 	this.progressBar = progressBar;
