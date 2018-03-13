@@ -1,0 +1,23 @@
+<div>
+ <script src="build/WebGL/TemplateData/UnityProgress.js"></script>
+    <div class="template-wrap clear">
+      <canvas class="emscripten" id="canvas" oncontextmenu="event.preventDefault()" height="600px" width="960px"></canvas>
+      <br>
+      <div class="logo"></div>
+      <div class="fullscreen"><img src="build/WebGL/TemplateData/fullscreen.png" width="38" height="38" alt="Fullscreen" title="Fullscreen" onclick="SetFullscreen(1);" /></div>
+    </div>
+ 
+    <script type='text/javascript'>
+      var Module = {
+        TOTAL_MEMORY: 268435456,
+        errorhandler: null,			// arguments: err, url, line. This function must return 'true' if the error is handled, otherwise 'false'
+        compatibilitycheck: null,
+        dataUrl: "build/WebGL/Release/CannonBoyWebGL-final.data",
+        codeUrl: "build/WebGL/Release/CannonBoyWebGL-final.js",
+        memUrl: "build/WebGL/Release/CannonBoyWebGL-final.memgz",
+       
+      };
+    </script>
+
+ <script src="build/WebGL/Release/UnityLoader.js"></script>
+</div>
