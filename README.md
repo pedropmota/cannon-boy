@@ -1,4 +1,3 @@
-# cannon-boy
 A (challenging!!!) arcade game developed with [Unity](https://unity3d.com/) / C#.
 
 
